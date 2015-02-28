@@ -7,24 +7,17 @@ body {
 }
 
 #footer {
-    background-color: #1f9bc9;
+    background-color: #EC845C;
+    /*background-color: #1f9bc9;*/
 }
 
-.cta1 {
-    background-color:black;
-}
-
-
-
-
-
-.subscribe-submit, 
+.subscribe-submit,
 .subscribe-submit:active, 
 .spinner > div,
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span,
 .cta2 {
-    background-color: #a7cb00;
+    background-color: #EC845C;
 }
 
 
@@ -68,7 +61,7 @@ h3 {
 }
 
 h4 {
-    color:#a7cb00;
+    color:#EC845C;
 }
 
 .feature_icon {
@@ -77,15 +70,15 @@ h4 {
 
 .arrow_up,
 .arrow_down {
-    fill:#f0f0f0;
+    fill: #e6e6e6;
 }
 
 .arrow_down:hover,
 .arrow_up:hover {
-    fill:#dddddd;
+    fill: #d1d1d1;
 }
 
-#features_3, .arrows_box_bg {
+.arrows_box_bg {
     background-color:#f7f8fa;
 }
 
@@ -98,7 +91,7 @@ h4 {
 
 
 #blog_header{
-    background-color: #1f9bc9;
+    background-color: #EC845C;
 }
 
 #pagination a.active h3, .dev_blog_post a, .comment a  {
